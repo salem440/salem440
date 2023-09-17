@@ -4,7 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salem2400" alt="salem2400" /></a> </p>
 
-
+<p align="left">
+  <a href="https://twitter.com/salem_samir_1" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter" height="30" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **BackEnd**
 
