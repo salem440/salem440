@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm a self-taught BackEnd developer</h1>
 <h3 align="center">A self-taught BackEnd developer from Egypt</h3>
 
-
-<p align="left">
-  <a href="https://twitter.com/salem_samir_1" target="_blank">
-    <strong style="display: inline-block; vertical-align: middle;">Follow me on</strong>
-    <img src="./twitter.png" alt="Twitter" height="30" style="display: inline-block; vertical-align: middle; margin-left: 5px;" />
+<div align="center">
+  <h2>GitHub Profile Trophies 🏆</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=salem2400" alt="salem2400" />
   </a>
-</p>
+</div>
 
 
 
