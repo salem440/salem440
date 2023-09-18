@@ -5,7 +5,7 @@
 <div align="center">
   <h2>GitHub Profile Trophies 🏆</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salem2400&column=7&rank=SSS,SS,S,AAA,AA,A&theme=dracula" alt="salem2400" />
+    <img src="https://github-profile-trophy.vercel.app/?username=salem2400&theme=darkhub&column=7" alt="salem2400" />
   </a>
 </div>
 
