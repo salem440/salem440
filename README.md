@@ -2,7 +2,12 @@
 <h3 align="center">A self-taught BackEnd developer from Egypt</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salem2400" alt="salem2400" /></a> </p>
+<div align="center">
+  <h2>GitHub Profile Trophies 🏆</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=salem2400" alt="salem2400" />
+  </a>
+</div>
 
 
 
