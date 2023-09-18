@@ -3,7 +3,7 @@
 
 <div align="center">
   <h2>GitHub Profile Trophies 🏆</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox">
     <img src="https://github-profile-trophy.vercel.app/?username=salem2400" alt="salem2400" />
   </a>
 </div>
